@@ -1,9 +1,7 @@
 /*Grupo : TI 4A. Equipo: 
 Stephanie Paulina Pech Cervera
 Samir Ivan Molina Arredondo
-Alejandro Martin Caamal
 Antonio Chi Moo
-Juan Romero Yam
 */
 var express = require('express');
 var path = require('path');
