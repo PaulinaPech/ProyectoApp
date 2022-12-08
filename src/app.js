@@ -2,6 +2,8 @@
 Stephanie Paulina Pech Cervera
 Samir Ivan Molina Arredondo
 Antonio Chi Moo
+Alejandro Caamal 
+Juan Romero
 */
 var express = require('express');
 var path = require('path');
